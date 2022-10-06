@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Duza_Czcionka">24sp</dimen>
+    <dimen name="Srednia_Czcionka">18sp</dimen>
+    <dimen name="margines">24dp</dimen>
+</resources>

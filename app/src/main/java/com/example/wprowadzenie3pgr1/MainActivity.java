@@ -15,12 +15,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void wypisz(View view) {
-        Toast.makeText( MainActivity.this,"Wyświetlany tekst" ,Toast.LENGTH_SHORT).show();
-    }
 
-    public void zmienTekst(View view) {
-        TextView textView = findViewById(R.id.napisTextView);
-        textView.setText("Inny tekst");
-    }
 }
